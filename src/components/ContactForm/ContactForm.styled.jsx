@@ -40,7 +40,6 @@ export const ButtonForm = styled.button`
   background-color: ${({ theme: { helpers } }) => helpers.white};
 
   font-size: 16px;
-  font-weight: 600;
 
   &:hover {
     background-color: ${({ theme: { helpers } }) => helpers.goldenRod};
